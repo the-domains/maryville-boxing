@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T02:56:18.470Z'
+datePublished: '2016-02-01T02:56:18.549Z'
 dateModified: '2016-02-01T02:56:11.043Z'
 title: 'Anais Beeker - My 3 Month Results!'
 author: []
