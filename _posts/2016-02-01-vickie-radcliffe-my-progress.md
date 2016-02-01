@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T02:43:57.044Z'
+datePublished: '2016-02-01T02:43:57.137Z'
 dateModified: '2016-02-01T02:43:49.447Z'
 title: 'Vickie Radcliffe - My Progress!'
 author: []
