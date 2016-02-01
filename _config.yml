@@ -1,0 +1,28 @@
+name: Maryville Boxing
+favicon: null
+layout_spectrum: 0.5706125337164849
+typography_spectrum: 0.8125484972260892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8080668945331126
+  lightness: 0.9013133712578565
+  saturation: 0.7926216754131019
+  rhythmicContrast: 0.7563297189772129
+purpose: []
