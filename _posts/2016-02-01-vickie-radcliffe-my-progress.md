@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T02:42:26.003Z'
-dateModified: '2016-02-01T02:41:51.353Z'
+datePublished: '2016-02-01T02:43:57.044Z'
+dateModified: '2016-02-01T02:43:49.447Z'
 title: 'Vickie Radcliffe - My Progress!'
 author: []
 authors: []
