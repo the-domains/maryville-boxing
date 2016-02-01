@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T02:24:42.372Z'
-dateModified: '2016-02-01T02:24:03.895Z'
+datePublished: '2016-02-01T02:56:18.470Z'
+dateModified: '2016-02-01T02:56:11.043Z'
 title: 'Anais Beeker - My 3 Month Results!'
 author: []
+sourcePath: _posts/2016-02-01-anais-beeker-my-3-month-results.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-anais-beeker-my-3-month-results.md
-published: true
-url: anais-beeker-my-3-month-results/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3642904c-d21a-41ab-89ef-6a5c5f41cd29.jpg)
