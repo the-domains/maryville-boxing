@@ -1,13 +1,13 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T02:46:07.816Z'
-dateModified: '2016-02-01T02:46:03.553Z'
+datePublished: '2016-02-01T02:54:49.301Z'
+dateModified: '2016-02-01T02:46:59.916Z'
 title: 'Vickie Radcliffe - My Progress!'
 author: []
 sourcePath: _posts/2016-02-01-vickie-radcliffe-my-progress.md
@@ -18,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: vickie-radcliffe-my-progress/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8f75564-a2de-4e98-a130-1d40b2f03145.jpg)
